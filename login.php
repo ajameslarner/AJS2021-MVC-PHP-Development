@@ -8,15 +8,14 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
 </head>
 <body>
-<i class="fas fa-pencil-alt    "></i>
-<div class="card">
-    <img class="card-img-top" src="holder.js/100x180/" alt="">
-    <div class="card-body">
-        <h4 class="card-title">Hello Welcome!</h4>
-        <p class="card-text">This is the text example </p>
-    </div>
+<div class="row">
+<div class="col-md-12">
+<ul>
+<li>Home</li>
+<li>Register</li>
+<li>Login</li></ul>
 </div>
-    
 
+</div>
 </body>
 </html>
